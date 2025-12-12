@@ -26,5 +26,4 @@ The simulation focused on applying data science techniques to real-world airline
 ## 📄 Certificate
 I successfully completed the **British Airways Data Science Job Simulation** on Forage.
 
-httpswww.theforage.comcompletion-certificatestMjbs76F526fF5v3GNjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_68f88bfdd6d2903b38645fc8.png
 
